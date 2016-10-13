@@ -1,2 +1,4 @@
 # angular-quickstart
-Quickstart simple application from angular.io guide
+Simple angular application created following the Quickstart guide on angular.io.
+
+
