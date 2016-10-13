@@ -1,0 +1,5 @@
+# Install packages
+npm install
+
+# Manual 'typings' installation (if not showed up)
+npm run typings install
